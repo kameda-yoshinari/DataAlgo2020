@@ -5,8 +5,9 @@ Data structure and Algorithm in 2020 at ESYS on U-Tsukuba, Japan.
 データ構造とアルゴリズム(FG24711/FG34711) 担当：亀田能成
 
 C言語で非数値データを扱ったりそれを処理するアルゴリズムについて勉強します．  
-各colab notebookで図が表示されてないことがあるかもしれませんが，これはgithubではなくcolabに行けば表示されるようになります．  
-（githubで見れないのはgithubが画像の直接埋め込みをレンダリングできないためです）  
+本github上で各colab notebookの図が表示されていなかったり，htmlマークアップが崩れていたりすることがあるかもしれませんが，これはcolabでの表示を想定しているからです．（同じjupyter notebookでもgoogle colaboratoryとgithubでは全く同じようにレンダリングしてくれるわけではないため）  
+（githubは画像の直接埋め込みに未対応の模様）  
+"Open in Colab" アイコンで Google Colaboratory に行って開けば，私が想定していた形ですべて閲覧できるはずです．
 
 003 ... 3.節に関連する演習実施のための準備  
 --- ... 3.節 グラフの探索  
