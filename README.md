@@ -7,7 +7,8 @@ Data structure and Algorithm in 2020 at ESYS on U-Tsukuba, Japan.
 C言語で非数値データを扱ったりそれを処理するアルゴリズムについて勉強します．  
 本github上で各colab notebookの図が表示されていなかったり，htmlマークアップが崩れていたりすることがあるかもしれませんが，これはcolabでの表示を想定しているからです．（同じjupyter notebookでもgoogle colaboratoryとgithubでは全く同じようにレンダリングしてくれるわけではないため）  
 （githubは画像の直接埋め込みに未対応の模様）  
-"Open in Colab" アイコンで Google Colaboratory に行って開けば，私が想定していた形ですべて閲覧できるはずです．
+"Open in Colab" アイコンで Google Colaboratory に行って開けば，私が想定していた形ですべて閲覧できるはずです．  
+大きい図などを入れようとするとgithubでは表示できないだけでなく，githubからダウンロードすらできなくなるみたいなので対策試行錯誤中です．．． 
 
 【講義資料】  
 003 ... 3.節に関連する演習実施のための準備  
