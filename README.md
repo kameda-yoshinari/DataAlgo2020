@@ -1,4 +1,4 @@
-# DataAlgo2020
+# Data structure and Algorithm 2020
 Data structure and Algorithm in 2020 at ESYS on U-Tsukuba, Japan.
 
 筑波大学工学システム学類3年生科目
