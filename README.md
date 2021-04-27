@@ -1,6 +1,8 @@
 # Data structure and Algorithm 2020
 Data structure and Algorithm in 2020 at ESYS on U-Tsukuba, Japan.
 
+★2021年度以降については，DataAlgo-UTのほうに展開します．
+
 筑波大学工学システム学類3年生科目
 データ構造とアルゴリズム(FG24711/FG34711) 担当：亀田能成
 
