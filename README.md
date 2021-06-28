@@ -1,7 +1,8 @@
 # Data structure and Algorithm 2020
 Data structure and Algorithm in 2020 at ESYS on U-Tsukuba, Japan.
 
-★2021年度以降については，DataAlgo-UTのほうに展開します．
+<font color="red">★2021年度以降については，DataAlgo-UTのほうに展開します．</font>  
+https://github.com/kameda-yoshinari/DataAlgo-UT
 
 筑波大学工学システム学類3年生科目
 データ構造とアルゴリズム(FG24711/FG34711) 担当：亀田能成
@@ -33,3 +34,11 @@ R06 ... 第6週課題の雛形
 2020年度はCovid19のおかげで計算機室が利用不能になったこともあり，いっそのこと，というのでGoogle Colaboratoryベースに切り替えることにしました．
 Google Colaboratoryという未来志向の環境を使ってわざわざC言語の授業資料公開しているのは私ぐらいかも‥
 EclipseとかVisualStudioとか別のクラウドとかも考えた・調査したのですが，全学生に提供可能で，場所も問わずに，無料，となるとこれぐらいしか選択肢がないと思います．（あと大学院でもG-Colab使うのでそっちとの相乗効果で手間削減したかったというのもあったり）
+
+【注意書】
+githubで稀に「Sorry, something went wrong. Reload?」と言われることがあるかもしれません。
+時間を空けて再度Reloadしても状況が改善しない場合は、少し手間ですが、
+https://nbviewer.jupyter.org/
+にアクセスし、当該リンクを張り付けて可視化（レンダリング）してみてください。  
+（参考） https://stackoverflow.com/questions/62878732/how-to-display-a-ipynb-file-on-github
+
