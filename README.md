@@ -1,8 +1,10 @@
 # Data structure and Algorithm 2020
 Data structure and Algorithm in 2020 at ESYS on U-Tsukuba, Japan.
 
-<font color="red">★2021年度以降については，DataAlgo-UTのほうに展開します．</font>  
+**2021年度以降については，DataAlgo-UTのほうに展開します．**  
 https://github.com/kameda-yoshinari/DataAlgo-UT
+
+---
 
 筑波大学工学システム学類3年生科目
 データ構造とアルゴリズム(FG24711/FG34711) 担当：亀田能成
@@ -24,12 +26,14 @@ C言語で非数値データを扱ったりそれを処理するアルゴリズ�
 007 ... 4.1.節 最長経路問題  
 008 ... 4.2.節 1対N最短経路問題(Dijkstra) ;  extあり
 009 ... 4.3.節 N対N最短経路問題(Floyd) ; extあり
-  
+...
+
 【課題】  
 R03 ... 第3週課題の雛形    
 R04 ... 第4週課題の雛形  
 R05 ... 第5週課題の雛形
 R06 ... 第6週課題の雛形
+...
 
 2020年度はCovid19のおかげで計算機室が利用不能になったこともあり，いっそのこと，というのでGoogle Colaboratoryベースに切り替えることにしました．
 Google Colaboratoryという未来志向の環境を使ってわざわざC言語の授業資料公開しているのは私ぐらいかも‥
